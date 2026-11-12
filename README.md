@@ -1,9 +1,9 @@
 # Integrantes
-Ana Clara Martins Viana - RA: 233191
-Beatriz Lopes de Almeida - RA: 281739
-Gustavo Antônio Oliveira Mergulhão - RA: 294255
-Mylena Santos Santana - RA: 260141
-Thauany Eduarda dos Santos Silva - RA: 277307
+- Ana Clara Martins Viana - RA: 233191
+- Beatriz Lopes de Almeida - RA: 281739
+- Gustavo Antônio Oliveira Mergulhão - RA: 294255
+- Mylena Santos Santana - RA: 260141
+- Thauany Eduarda dos Santos Silva - RA: 277307
 
 # Meu Ambiente
 Transformar ambientes inteligentes em experiências personalizadas, adaptando configurações às
